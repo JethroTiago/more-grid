@@ -1,4 +1,4 @@
-# Anime Agenda
+# Projeto Aluraplay
 
 Página web (HTML & CSS only) desenvolvida a partir das instruções do curso de CSS: Flexbox e layouts responsivos - Alura 2023<br>
 Desenvolvida com o propósito de finalizar a formação em CSS da Escola Alura.
